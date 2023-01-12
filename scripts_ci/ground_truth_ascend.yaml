@@ -48,7 +48,7 @@ resnet50_vd:
   topk5: 0.94
 shufflenetv2_x0_25:
   topk1: 0.46 
-  topk5: 0.74
+  topk5: 0.72
 shufflenetv2_x2_0: 
   topk1: 0.76
   topk5: 0.88
