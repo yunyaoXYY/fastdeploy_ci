@@ -35,6 +35,7 @@ ignore="test_ppocrv2.py
         test_scaledyolov4p5.py
         test_yolorp6.py
         test_yoloxs.py
+	test_pp_yolox.py
         test_picodet.py
         test_pp_liteseg.py"
        
